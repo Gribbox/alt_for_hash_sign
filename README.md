@@ -2,15 +2,13 @@ This is a script I wrote that changes the input of the right Alt key to hash sig
 
 To use it, you need to download and run the script. You can check in the system tray to see if it's running. I also recommend adding it to the autostart programs so it runs automatically when you turn on your computer.
 
+***
+
 Это написанный мной скрипт, который меняет ввод правого альта на решетку # в русской и английской расскладках. Я много использую # в своем хранилище обсидиана и по умолчанию в английской расскладке это комбинация двух клавиш, а в русской раскладке этого символа нет. Я не смогла найти готовых рабочих решений, так что сделала скрипт.
 
 Чтобы использовать его нужно скачать скрипт и запустить его, можете проверить в трее, что он запущен. Советую добавить его в программы автозапуска при включении компьютера.
 
-Скрипт для переназначения клавиши на ввод решетки #
-Как сделать одну клавишу для символа решетка # в Windows
-Переназначение клавиши для быстрого ввода решетки #
-Простая настройка горячей клавиши для решетки # в Windows
-Скрипт для ввода решетки # по одной клавише
+***
 
 Script to remap a key to hash sign # in Windows
 How to assign a single key to hash sign # in Windows
@@ -18,3 +16,8 @@ Remap any key to input hash sign # quickly
 Shortcut key for hash sign # in Windows
 Key remapping for hash sign # symbol
 
+Скрипт для переназначения клавиши на ввод решетки #
+Как сделать одну клавишу для символа решетка # в Windows
+Переназначение клавиши для быстрого ввода решетки #
+Простая настройка горячей клавиши для решетки # в Windows
+Скрипт для ввода решетки # по одной клавише
